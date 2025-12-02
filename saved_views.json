@@ -1,0 +1,64 @@
+{
+  "Staff meeting": {
+    "graphs": [
+      {
+        "metrics": [
+          "New Div 4 Content",
+          "New Div 6 Content"
+        ]
+      },
+      {
+        "metrics": [
+          "Software Development Expansion Index "
+        ]
+      },
+      {
+        "metrics": [
+          "Leads Delivered (Corrected)"
+        ]
+      },
+      {
+        "metrics": [
+          "New Clients"
+        ]
+      },
+      {
+        "metrics": [
+          "Resigns",
+          "Finished Packages"
+        ]
+      },
+      {
+        "metrics": []
+      },
+      {
+        "metrics": [
+          "Total Profit "
+        ]
+      },
+      {
+        "metrics": [
+          "VLD (Corrected)"
+        ]
+      },
+      {
+        "metrics": []
+      }
+    ]
+  },
+  "James stats": {
+    "graphs": []
+  },
+  "Nick stats": {
+    "graphs": []
+  },
+  "Alex stats": {
+    "graphs": []
+  },
+  "Shiloh's stats": {
+    "graphs": []
+  },
+  "Jake's stats": {
+    "graphs": []
+  }
+}
